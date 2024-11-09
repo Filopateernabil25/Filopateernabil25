@@ -1,4 +1,4 @@
-# 💫 HI, Iam Filopateer ,Iam Front-End Developer <br>
+# 💫 HI, I'm Filopateer ,I'm Front-End Developer <br>
 
 
 ## 🌐 Socials:

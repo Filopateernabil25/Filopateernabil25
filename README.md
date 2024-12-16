@@ -1,6 +1,6 @@
 # 💫 HI, I'm Filopateer ,I'm Front-End Developer
 
-# 💫 About Me:
+# ✍️ About Me:
 🔭 I am currently working on a new project<br>👯 I am looking for collaboration in work<br>🤝 I am looking for help in freelancing<br>🌱 I am currently learning a new programming language<br>💬 Ask me anything you want<br>⚡ Fun fact about me: I am always developing myself<br>
 
 

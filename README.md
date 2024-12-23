@@ -2,8 +2,8 @@
 
 ## About Me:
 
-I'm Front End Developer. I'm passionate about creating beautiful and user-friendly web. I'm a quick learner and a creative problem-solver who loves to experiment with new technologies.
-💼 FrontEnd Developer
+I'm Front End Developer. I'm passionate about creating beautiful and user-friendly web. I'm a quick learner and a creative problem-solver who loves to experiment with new technologies.<br>
+💼 FrontEnd Developer<br>
 🔭 I am currently working on a new project<br>👯 I am looking for collaboration in work<br>🤝 I am looking for help in freelancing<br>🌱 I am currently learning a new programming language<br>💬 Ask me anything you want<br>⚡ Fun fact about me: I am always developing myself<br>
 
 

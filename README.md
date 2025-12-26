@@ -1,4 +1,4 @@
-<h1 align="center"> 💫 HI, I'm Filopateer ,I'm Full Stacke Developer</h1>
+<h1 align="center"> 💫 HI, I'm Filopateer ,Full Stacke Developer</h1>
 
 
 ## About Me:
